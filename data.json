@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "firstname":"john",
+        "lastname":"Doe",
+        "branch":"CSE"
+    },
+    {
+        "id":2,
+        "firstname":"mark",
+        "lastname":"Zuckerbarg",
+        "branch":"ECE"
+    },
+    {
+        "id":3,
+        "firstname":"jack",
+        "lastname":"jill",
+        "branch":"EEE"
+    },
+    {
+        "id":4,
+        "firstname":"moon",
+        "lastname":"sky",
+        "branch":"MECH"
+    },
+    {
+        "id":5,
+        "firstname":"sun",
+        "lastname":"star",
+        "branch":"Civil"
+    }
+]
